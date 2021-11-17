@@ -1,40 +1,34 @@
 {
   "unpublishedPage": {
-    "name": "Page1",
-    "slug": "page1",
+    "name": "Page2",
+    "slug": "page2",
     "layouts": [
       {
         "viewMode": false,
         "dsl": {
           "widgetName": "MainContainer",
           "backgroundColor": "none",
-          "rightColumn": 4896,
+          "rightColumn": 1224,
           "snapColumns": 64,
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 5016,
+          "bottomRow": 230,
           "containerStyle": "none",
-          "snapRows": 125,
+          "snapRows": 23,
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
           "version": 45,
-          "minHeight": 1292,
+          "minHeight": 240,
           "parentColumnSpace": 1,
           "dynamicBindingPathList": [],
           "leftColumn": 0,
           "children": []
         },
         "layoutOnLoadActions": [],
-        "widgetNames": [
-          "MainContainer"
-        ],
-        "allOnPageLoadActionNames": [],
-        "allOnPageLoadActionEdges": [],
-        "actionsUsedInDynamicBindings": [],
         "validOnPageLoadActions": true,
-        "id": "6194c5f6c4cad110f19a0d98",
+        "id": "6194c5f9c4cad110f19a0d9a",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -44,41 +38,35 @@
     "policies": []
   },
   "publishedPage": {
-    "name": "Page1",
-    "slug": "page1",
+    "name": "Page2",
+    "slug": "page2",
     "layouts": [
       {
         "viewMode": false,
         "dsl": {
           "widgetName": "MainContainer",
           "backgroundColor": "none",
-          "rightColumn": 4896,
+          "rightColumn": 1224,
           "snapColumns": 64,
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 5016,
+          "bottomRow": 230,
           "containerStyle": "none",
-          "snapRows": 125,
+          "snapRows": 23,
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
           "version": 45,
-          "minHeight": 1292,
+          "minHeight": 240,
           "parentColumnSpace": 1,
           "dynamicBindingPathList": [],
           "leftColumn": 0,
           "children": []
         },
         "layoutOnLoadActions": [],
-        "widgetNames": [
-          "MainContainer"
-        ],
-        "allOnPageLoadActionNames": [],
-        "allOnPageLoadActionEdges": [],
-        "actionsUsedInDynamicBindings": [],
         "validOnPageLoadActions": true,
-        "id": "6194c5f6c4cad110f19a0d98",
+        "id": "6194c5f9c4cad110f19a0d9a",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -88,8 +76,8 @@
     "policies": []
   },
   "createdAt": {
-    "seconds": 1637139958,
-    "nanos": 432000000
+    "seconds": 1637139961,
+    "nanos": 881000000
   },
   "deleted": false,
   "policies": [],
@@ -99,8 +87,8 @@
   ],
   "defaultResources": {
     "applicationId": "6194c569c4cad110f19a0d92",
-    "pageId": "6194c569c4cad110f19a0d95",
+    "pageId": "6194c5f9c4cad110f19a0d9c",
     "branchName": "test"
   },
-  "gitSyncId": "6194c569c4cad110f19a0d92_6194c569c4cad110f19a0d94"
+  "gitSyncId": "6194c5f6c4cad110f19a0d97_6194c5f9c4cad110f19a0d9b"
 }
