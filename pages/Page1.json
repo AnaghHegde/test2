@@ -30,11 +30,8 @@
         "widgetNames": [
           "MainContainer"
         ],
-        "allOnPageLoadActionNames": [],
-        "allOnPageLoadActionEdges": [],
-        "actionsUsedInDynamicBindings": [],
         "validOnPageLoadActions": true,
-        "id": "6194d38fc4cad110f19a0da0",
+        "id": "6195dabeaaa2183648a73b0c",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -74,11 +71,8 @@
         "widgetNames": [
           "MainContainer"
         ],
-        "allOnPageLoadActionNames": [],
-        "allOnPageLoadActionEdges": [],
-        "actionsUsedInDynamicBindings": [],
         "validOnPageLoadActions": true,
-        "id": "6194d38fc4cad110f19a0da0",
+        "id": "6195dabeaaa2183648a73b0c",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -87,20 +81,11 @@
     "userPermissions": [],
     "policies": []
   },
-  "createdAt": {
-    "seconds": 1637143439,
-    "nanos": 431000000
-  },
   "deleted": false,
   "policies": [],
   "userPermissions": [
     "read:pages",
     "manage:pages"
   ],
-  "defaultResources": {
-    "applicationId": "6194c569c4cad110f19a0d92",
-    "pageId": "6194c569c4cad110f19a0d95",
-    "branchName": "test3"
-  },
   "gitSyncId": "6194c569c4cad110f19a0d92_6194c569c4cad110f19a0d94"
 }
